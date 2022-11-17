@@ -1,0 +1,82 @@
+E:\Full Project\FullStack Api\bin\Debug\net6.0\appsettings.Development.json
+E:\Full Project\FullStack Api\bin\Debug\net6.0\appsettings.json
+E:\Full Project\FullStack Api\bin\Debug\net6.0\FullStack Api.exe
+E:\Full Project\FullStack Api\bin\Debug\net6.0\FullStack Api.deps.json
+E:\Full Project\FullStack Api\bin\Debug\net6.0\FullStack Api.runtimeconfig.json
+E:\Full Project\FullStack Api\bin\Debug\net6.0\FullStack Api.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\FullStack Api.pdb
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Azure.Core.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Azure.Identity.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Humanizer.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\System.CodeDom.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\System.Text.Json.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Full Project\FullStack Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Full Project\FullStack Api\obj\Debug\net6.0\FullStack Api.csproj.AssemblyReference.cache
+E:\Full Project\FullStack Api\obj\Debug\net6.0\FullStack Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Project\FullStack Api\obj\Debug\net6.0\FullStack Api.AssemblyInfoInputs.cache
+E:\Full Project\FullStack Api\obj\Debug\net6.0\FullStack Api.AssemblyInfo.cs
+E:\Full Project\FullStack Api\obj\Debug\net6.0\FullStack Api.csproj.CoreCompileInputs.cache
+E:\Full Project\FullStack Api\obj\Debug\net6.0\FullStack Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Full Project\FullStack Api\obj\Debug\net6.0\FullStack Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Full Project\FullStack Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\Full Project\FullStack Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\Full Project\FullStack Api\obj\Debug\net6.0\scopedcss\bundle\FullStack Api.styles.css
+E:\Full Project\FullStack Api\obj\Debug\net6.0\FullStack Api.csproj.CopyComplete
+E:\Full Project\FullStack Api\obj\Debug\net6.0\FullStack Api.dll
+E:\Full Project\FullStack Api\obj\Debug\net6.0\refint\FullStack Api.dll
+E:\Full Project\FullStack Api\obj\Debug\net6.0\FullStack Api.pdb
+E:\Full Project\FullStack Api\obj\Debug\net6.0\FullStack Api.genruntimeconfig.cache
+E:\Full Project\FullStack Api\obj\Debug\net6.0\ref\FullStack Api.dll
